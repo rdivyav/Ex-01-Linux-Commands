@@ -222,17 +222,31 @@ The find command is used to find a particular file within a directory.
 
 Syntax: find.-name”*.pdf”
 
+Output:
 
+![image](https://github.com/user-attachments/assets/a2259399-8c06-4839-9610-9f20ddd8769f)
 
+![image](https://github.com/user-attachments/assets/24d8b718-e4d7-4b21-97e9-3c7803b68ef0)
 
+![image](https://github.com/user-attachments/assets/ec864d96-ba3a-44af-8cd9-414a4171df52)
 
+![image](https://github.com/user-attachments/assets/6ff7e302-19a5-4ba8-a22b-cb3252787cf7)
 
+![image](https://github.com/user-attachments/assets/0db6ed8f-45d4-4ee8-b19d-b6dbc00ba413)
 
+![image](https://github.com/user-attachments/assets/af240851-01ce-4646-985a-9cdd0439c6e9)
 
+![image](https://github.com/user-attachments/assets/855b71b7-fa4d-4cb8-a45b-1b7385052182)
 
+![image](https://github.com/user-attachments/assets/831511e5-5064-4f95-8742-f15faca33904)
 
+![image](https://github.com/user-attachments/assets/4412ba58-4f1b-402b-ac32-037dc8b0d449)
 
+![image](https://github.com/user-attachments/assets/31228e5a-62e5-450e-827e-895fd4ea7137)
 
+![image](https://github.com/user-attachments/assets/7234f34f-4274-4232-8bfc-bcd5e9bf47a6)
+
+![image](https://github.com/user-attachments/assets/677fc376-e1c8-413c-85ba-e535e1c3a66f)
 
 
 
